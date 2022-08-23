@@ -4,7 +4,7 @@
 
 >  The MEC required to enhance a Rare MOMO for 1 up enhancement = (current initial hash power - 8), up to 200MEC.
 
-| Lvl of initial hash | Next Level | MECs needed after update | Lvls needed to reach 90 | MECs to reach lvl 200 |
+| Lvl of initial hash | Next Level | MECs needed after update | Lvls needed to reach 90 | MECs to reach lvl 90  |
 | ------------------- | ---------- | ------------------------ | ----------------------- | --------------------- |
 | 35                  | 36         | 27                       | 55                      | 2970                  |
 | 36                  | 37         | 28                       | 54                      | 2943                  |
