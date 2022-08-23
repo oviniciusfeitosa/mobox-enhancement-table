@@ -1,5 +1,9 @@
 # Mobox enhancement table
 
+## About
+
+This repository is intended to share a table that i created for my personal (not official) use that serves to calculate the amount of MECs that will be needed to increase the initial hash power and that will be required from 08/24/2022 on the Mobox platform.
+
 ## Rare
 
 >  The MEC required to enhance a Rare MOMO for 1 up enhancement = (current initial hash power - 8), up to 200MEC.
